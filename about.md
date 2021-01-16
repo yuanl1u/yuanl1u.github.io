@@ -26,10 +26,8 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
-
-## 个人简历
-2020 - 		Comp Engineering, New York University
-2018 - 2020 Electrical and Comp Engineering, University of Illinois at Chicago
-2015 - 2018 Network Engineering, Changchun University of Science and Technology
+## Resume
+2020 - 		Computer Engineering, New York University  
+2018 - 2020 Electrical and Computer Engineering, University of Illinois at Chicago  
+2015 - 2018 Network Engineering, Changchun University of Science and Technology  
 
