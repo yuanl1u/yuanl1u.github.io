@@ -24,10 +24,14 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+article_header:
+  type: cover
+  image:
+    src: /docs/assets/images/cover3.jpg
 ---
 
 ## Resume
-2020 - 		Computer Engineering, New York University  
-2018 - 2020 Electrical and Computer Engineering, University of Illinois at Chicago  
-2015 - 2018 Network Engineering, Changchun University of Science and Technology  
+2020 - Now , Computer Engineering, New York University  
+2018 - 2020, Electrical and Computer Engineering, University of Illinois at Chicago  
+2015 - 2018, Network Engineering, Changchun University of Science and Technology  
 
