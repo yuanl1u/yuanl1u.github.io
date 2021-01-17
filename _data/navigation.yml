@@ -48,7 +48,8 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
-    
+
+
       # @start locale config
       en      : &EN       Github
       en-GB   : *EN
@@ -72,3 +73,4 @@ header:
       fr-LU   : *FR
       # @end locale config
     url:  https://github.com/yuanl1u
+    
