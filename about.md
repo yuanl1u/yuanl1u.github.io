@@ -27,7 +27,7 @@ key: page-about
 article_header:
   type: cover
   image:
-    src: /docs/assets/images/cover3.jpg
+    src: https://github.com/yuanl1u/yuanl1u.github.io/blob/master/docs/assets/images/tandon_logo.jfif?raw=true
 ---
 
 ## Resume
